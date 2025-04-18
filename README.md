@@ -130,4 +130,19 @@ This lab demonstrates the deployment, configuration, and management of an Active
   - Lockout events  
   - Account changes  
 
-This provides foundational experience for security operations and incident response.
+---
+
+## Skills and Experience Gained
+
+This lab delivers hands-on experience with setting up and managing a foundational Active Directory environment in a cloud-hosted infrastructure. Practical skills developed include:
+
+- Deploying a **Windows Server domain controller** and a **domain-joined Windows 10 client** in Azure  
+- Promoting a server to a **Domain Controller** and configuring an Active Directory forest  
+- Creating and organizing **Organizational Units (OUs)** for structured administration  
+- Managing user accounts, including **privileged access** through security groups  
+- Enabling and testing **Remote Desktop access** for domain users  
+- Automating user provisioning with **PowerShell scripting**  
+- Implementing **account lockout policies** via Group Policy to enhance security posture  
+- Using **Event Viewer** to monitor logon activity, account changes, and security events  
+
+These exercises build a core understanding of identity and access management in enterprise IT environments, supporting future roles in system administration, security operations, and cloud infrastructure management.
