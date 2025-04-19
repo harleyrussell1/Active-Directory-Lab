@@ -146,3 +146,7 @@ This lab delivers hands-on experience with setting up and managing a foundationa
 - Using **Event Viewer** to monitor logon activity, account changes, and security events  
 
 These exercises build a core understanding of identity and access management in enterprise IT environments, supporting future roles in system administration, security operations, and cloud infrastructure management.
+
+## Screenshots
+
+All screenshots for this lab can be found in the [screenshots](./screenshots) folder.
